@@ -1,0 +1,9 @@
+package org.application.smarthouse.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/floor")
+public class FloorController {
+}
